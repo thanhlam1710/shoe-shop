@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Huntersd",
+      "orther": 1,
+      "hidden": 1
+    },
+    {
+      "id": 2,
+      "title": "Sandal",
+      "orther": 1,
+      "hidden": 1
+    },
+    {
+      "id": 3,
+      "title": "Giày Thể Thao",
+      "orther": 1,
+      "hidden": 1
+    },
+    {
+      "id": 4,
+      "title": "Giày Chạy Bộ",
+      "orther": 1,
+      "hidden": 1
+    },
+    {
+      "id": 5,
+      "title": "Giày Tây",
+      "orther": 1,
+      "hidden": 1
+    },
+    {
+      "title": "Giày trẻ em nhỏ",
+      "orther": "2",
+      "hidden": "2",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Hunter Core DSMH09400XNH (Xanh Nhớt) Lâm",
+      "price": "79400044",
+      "image": "https://product.hstatic.net/1000230642/product/dsmh09400xnh__3__9252d30b6eb4469c8329015c9c192fa2_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 1,
+      "hot": 1,
+      "view": 1,
+      "category": "Hunter"
+    },
+    {
+      "id": 2,
+      "title": "Hunter Core DSMH09400XAM (Xám)",
+      "price": 794000,
+      "image": "https://product.hstatic.net/1000230642/product/dsmh09400xam__3__eeef3296002343be9edb94d69b9fa189_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 1,
+      "category": "Hunter"
+    },
+    {
+      "id": 3,
+      "title": "Hunter Core DSMH09900TRG (Trắng)",
+      "price": 731000,
+      "image": "https://product.hstatic.net/1000230642/product/09900trg__3__b7b897c3b62b4a599e7e5ca282801bbd_1024x1024.jpg",
+      "desc": "Giày Thể Thao Nam - Nữ Biti's Hunter Core cho mọi Phong cách và mọi Hành trình. Phù hợp với mọi nhu cầu sử dụng, Biti's Hunter Core mới 'chào sân' với 3 phối màu trung tính cho mùa hè năng động. Mẫu giày nổi bật cho trải nghiệm đẹp - nhẹ - bền, phù hợp cho mọi hoạt động thường ngày - kể cả hoạt động thể thao cơ bản. ",
+      "new": 1,
+      "hot": 1,
+      "view": 1,
+      "category": "Hunter"
+    },
+    {
+      "id": 4,
+      "title": "Biti's Hunter X LITEPLEX DSMH09800KEL (Kem Lợt)",
+      "price": 1010000,
+      "image": "https://product.hstatic.net/1000230642/product/dsmh09800kel__3__dc4377e4742f405a9533945588415899_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Hunter"
+    },
+    {
+      "id": 5,
+      "title": "Biti's Hunter DEMH01200XAM (Xám)",
+      "price": 427000,
+      "image": "https://product.hstatic.net/1000230642/product/demh01200xam__3__aeef54f28ecc433a9a6c6ef257c3c8a2_1024x1024.jpg",
+      "desc": "Giày Sandal Biti's Hunter với kiểu dáng đơn giản nhưng thời trang, mang lại sự thoải mái và tự tin cho bạn suốt ngày dài. Quai Si, đế Eva Phun (Injection Phylon) cao cấp, bền chắc, mang lại nhẹ nhàng, êm ái cho bàn chân. Đặc biệt thiết kế quai năng động, viền chỉ chắc chắn ôm gọn chân nhưng lại cực kì thông thoáng, không gây nóng bức, hầm hay khó chịu. ",
+      "new": 1,
+      "hot": 1,
+      "view": 0,
+      "category": "Sandal"
+    },
+    {
+      "id": 6,
+      "title": "DPM031800XNH (Xanh Nhớt)",
+      "price": 358000,
+      "image": "https://product.hstatic.net/1000230642/product/dpm031800xnh__3__2dcbec4d58704113a40494caa05f4bbf_1024x1024.jpg",
+      "desc": "Giày Sandal Biti's Hunter với kiểu dáng đơn giản nhưng thời trang, mang lại sự thoải mái và tự tin cho bạn suốt ngày dài. Quai Si, đế Eva Phun (Injection Phylon) cao cấp, bền chắc, mang lại nhẹ nhàng, êm ái cho bàn chân. Đặc biệt thiết kế quai năng động, viền chỉ chắc chắn ôm gọn chân nhưng lại cực kì thông thoáng, không gây nóng bức, hầm hay khó chịu. ",
+      "new": 0,
+      "hot": 1,
+      "view": 1,
+      "category": "Sandal"
+    },
+    {
+      "id": 7,
+      "title": " Biti's Hunter DEMH01200KEM (Kem)",
+      "price": 427000,
+      "image": "https://product.hstatic.net/1000230642/product/demh01200kem__3__2e5ee36621e44fc58595524b791c0cd2_1024x1024.jpg",
+      "desc": "Giày Sandal Biti's Hunter với kiểu dáng đơn giản nhưng thời trang, mang lại sự thoải mái và tự tin cho bạn suốt ngày dài. Quai Si, đế Eva Phun (Injection Phylon) cao cấp, bền chắc, mang lại nhẹ nhàng, êm ái cho bàn chân. Đặc biệt thiết kế quai năng động, viền chỉ chắc chắn ôm gọn chân nhưng lại cực kì thông thoáng, không gây nóng bức, hầm hay khó chịu. ",
+      "new": 0,
+      "hot": 1,
+      "view": 1,
+      "category": "Sandal"
+    },
+    {
+      "id": 8,
+      "title": "Biti's Hunter DEMH01100REU (Rêu)",
+      "price": 460000,
+      "image": "https://product.hstatic.net/1000230642/product/demh01100reu__3__dbfae31633684e82bd712c35511479c0_1024x1024.jpg",
+      "desc": "Giày Sandal Biti's Hunter với kiểu dáng đơn giản nhưng thời trang, mang lại sự thoải mái và tự tin cho bạn suốt ngày dài. Quai Si, đế Eva Phun (Injection Phylon) cao cấp, bền chắc, mang lại nhẹ nhàng, êm ái cho bàn chân. Đặc biệt thiết kế quai năng động, viền chỉ chắc chắn ôm gọn chân nhưng lại cực kì thông thoáng, không gây nóng bức, hầm hay khó chịu. ",
+      "new": 1,
+      "hot": 1,
+      "view": 1,
+      "category": "Sandal"
+    },
+    {
+      "id": 9,
+      "title": "Biti's DSM074233DEN (Đen)",
+      "price": 610850,
+      "image": "https://product.hstatic.net/1000230642/product/dsm074233den_14__1f0d5ac658e64a988306f955f42aa5d7_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Thể Thao"
+    },
+    {
+      "id": 10,
+      "title": "Biti's DSM074733DEN (Đen)",
+      "price": 653000,
+      "image": "https://product.hstatic.net/1000230642/product/dsc_0104_bddfb200229c42e8be1b068acdd82792_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Thể Thao"
+    },
+    {
+      "id": 11,
+      "title": "Biti's Ucare Gen 1 Blue DSM073733XNH",
+      "price": 517000,
+      "image": "https://product.hstatic.net/1000230642/product/dsm073733xnh__5__987d02dce8b64962a5c859396c1aafc6_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Thể Thao"
+    },
+    {
+      "id": 12,
+      "title": "Biti's Hunter Running Black DSMH08300DEN (Đen)",
+      "price": 1010000,
+      "image": "https://product.hstatic.net/1000230642/product/h08300den__3__73928f6a11164fff8845c321b8ff88d8_1024x1024.jpg",
+      "desc": " Được ra mắt với thế hệ đế vượt trội mới và công nghệ độc quyền, giày chạy bộ Biti’s Hunter Running mang đến trải nghiệm thoải mái, êm ái nhất, cho Hunter fans có thể chạy mọi lúc, mọi nơi",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Thể Thao"
+    },
+    {
+      "id": 13,
+      "title": "Biti's Hunter Running Orange DSMH03900CAM",
+      "price": 1010000,
+      "image": "https://product.hstatic.net/1000230642/product/03900cam__3__b089fe56e4124dd89e487156067eb78b_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Chạy Bộ"
+    },
+    {
+      "id": 14,
+      "title": "Biti's Hunter Running Neon Green DSMH03900XMN",
+      "price": 1010000,
+      "image": "https://product.hstatic.net/1000230642/product/dsc_0021_d603fb6888da41758b9c340d6cdc6825_1024x1024.jpg",
+      "desc": " Được ra mắt với thế hệ đế vượt trội mới và công nghệ độc quyền, giày chạy bộ Biti’s Hunter Running mang đến trải nghiệm thoải mái, êm ái nhất, cho Hunter fans có thể chạy mọi lúc, mọi nơi",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Chạy Bộ"
+    },
+    {
+      "id": 15,
+      "title": "Biti's Hunter Running Tiger DSMH08300CAM)",
+      "price": 1010000,
+      "image": "https://product.hstatic.net/1000230642/product/h08300cam__3__579488198a6047798bfa78fbf1d08d1f_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Chạy Bộ"
+    },
+    {
+      "id": 16,
+      "title": "Biti's Hunter Football Futsal DSMH09100XDG",
+      "price": 716000,
+      "image": "https://product.hstatic.net/1000230642/product/dsmh09100xdg__3__0ddd5fdaa5544d2ba6bdc6710e0618eb_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Chạy Bộ"
+    },
+    {
+      "id": 17,
+      "title": "Biti's Hunter Football Futsal DSMH09100TRG",
+      "price": 716000,
+      "image": "https://product.hstatic.net/1000230642/product/dsmh09100trg__3__1e0fd31486ce419499b04b7cc65ee343_1024x1024.jpg",
+      "desc": "Mùa Hè trở lại kéo theo bầu không khí thể thao cuồng nhiệt từ những trận cầu đường phố lan tỏa khắp mọi nơi. Để giúp bạn thêm tự tin và thoải mái gia nhập vào mọi cuộc vui ngẫu hứng, Biti’s cho ra mắt bộ sưu tập Biti’s Hunter Football Futsal hoàn toàn mới - sở hữu những tính năng hỗ trợ tuyệt vời cùng thiết kế trẻ trung năng động với 3 phiên bản màu khác nhau, phiên bản này sẽ là sự lựa chọn hoàn hảo với những ưu điểm độc đáo",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Đá Bóng"
+    },
+    {
+      "id": 18,
+      "title": "Biti's Hunter Football Futsal DSMH09100DEN",
+      "price": 716000,
+      "image": "https://product.hstatic.net/1000230642/product/dsmh09100den__3__5213f426dd1140e8a14f5d3f220c0223_1024x1024.jpg",
+      "desc": "Mùa Hè trở lại kéo theo bầu không khí thể thao cuồng nhiệt từ những trận cầu đường phố lan tỏa khắp mọi nơi. Để giúp bạn thêm tự tin và thoải mái gia nhập vào mọi cuộc vui ngẫu hứng, Biti’s cho ra mắt bộ sưu tập Biti’s Hunter Football Futsal hoàn toàn mới - sở hữu những tính năng hỗ trợ tuyệt vời cùng thiết kế trẻ trung năng động với 3 phiên bản màu khác nhau, phiên bản này sẽ là sự lựa chọn hoàn hảo với những ưu điểm độc đáo",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Đá Bóng"
+    },
+    {
+      "id": 19,
+      "title": "Biti's Hunter Football Gen 2K21 Futsal DSMH07300CAM",
+      "price": 716000,
+      "image": "https://product.hstatic.net/1000230642/product/dsmh07300cam__3__cf8a73d30e2f4d83ac5d986865a785d5_1024x1024.jpg",
+      "desc": "Mẫu dùng Knits cổ vế 1 lớp thuận tiện cho quá trình mang, xỏ chân được thuận tiện. Điểm nhấn SP quai dệt logo Cánh chim kết họp cách may phần ô dê dây giày có sự khác biệt hơn.",
+      "new": 0,
+      "hot": 0,
+      "view": 0,
+      "category": "Giày Đá Bóng"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "FirstComment",
+      "userName": "Lâm Trần",
+      "userID": "1",
+      "parentId": null,
+      "createAt": ""
+    },
+    {
+      "userName": "lamne",
+      "body": "Hehe",
+      "id": "Z0XaD6p"
+    },
+    {
+      "userName": "Lâm",
+      "body": "Tuyệt",
+      "id": "MDVybPv"
+    },
+    {
+      "userName": "Lâm",
+      "body": "quá tuyệt vời",
+      "id": "N8ZZ3sW"
+    },
+    {
+      "userName": "Lâm",
+      "body": "Hay",
+      "id": "j7Ku2KC"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

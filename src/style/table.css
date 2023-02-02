@@ -1,0 +1,144 @@
+.table {
+    width: 100%;
+}
+
+.table__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rba(240, 240, 240);
+    padding: 0 0 30px 0;
+}
+
+.table__header p {
+    color: #000000;
+}
+
+.add_new {
+    padding: 10px 20px;
+    color: #3D464D;
+    background-color: #FFD333;
+    
+}
+
+button {
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    padding: 10px;
+    transition: 0.5s;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+input {
+    padding: 10px 20px;
+    border: 1px solid #FFD333;
+    border-radius: 6px;
+    color: #FFD333;
+    margin-right: 20px;
+}
+
+.btn__action {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn__action button {
+    font-size: 20px;
+    padding: 17px;
+    background-color: #FFD333;
+    color: #333;
+}
+
+
+.btn__action button:hover {
+    background-color: var(--green);
+    color: #fff;
+}
+
+
+
+
+::placeholder {
+    color: #777;
+}
+
+.table {
+    font-size: 17px;
+    width: 100%;
+    table-layout: fixed;
+    min-width: 80%;
+    border-collapse: collapse;
+}
+
+.table .table__thead .table__thead-tr {
+    text-align: left;
+}
+
+.table .table__thead .table__thead-tr .table__thead-th {
+    position: sticky;
+    top: 0;
+    background-color: #f6f9fc;
+    color: #8493a5;
+}
+
+.table__thead-th, .table__thead-td {
+    border-bottom: 1px solid #dddddd;
+    padding: 10px 20px;
+    word-break: break-all;
+    text-align: center;
+}
+
+.table__thead-td img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 5px solid #ced0d2;
+}
+
+.table__thead-tr {
+    transition: 0.5s;
+}
+
+.table__thead-tr:hover {
+    color: #FFD333;
+    cursor: pointer;
+    background-color: #f6f9fc;
+    transition: 0.5s;
+}
+
+.table__section {
+    overflow: hidden;
+}
+
+.th-1 {
+    width: 10%;
+}
+
+.th-2 {
+    width: 15%;
+}
+
+.th-3 {
+    width: 30%;
+}
+
+.th-4 {
+    width: 10%;
+}
+
+.th-5 {
+    width: 10%;
+}
+
+.th-6 {
+    width: 10%;
+    text-align: center;
+}
